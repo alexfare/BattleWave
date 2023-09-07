@@ -1,0 +1,734 @@
+Thank You For Downloading Battle Wave!
+by FareGaming
+
+Current Version: v22.04.23
+Last Updated: 04/23/22
+
+-------------------------------------------------------
+
+Future Plans(Last Updated: 04/15/22):
+Part 3 (World 2)
+
+-------------------------------------------------------
+
+Known Errors: (Last Updated 04/15/22)
+Music Bug (65% Done of current progress)
+Sound Bug (90% Done of current progress)
+Completed Quests don't count under Statistics
+Keys stay in inventory(20% fixed, In-Progress)
+
+-------------------------------------------------------
+Update 04/23/22
+Update v22.04.23
+Fixed MiniGun Sounds
+Updated Menu website to launch website in https
+Fixed Grenade dupe glitch from Alex (@Home)
+Hell Amulet Equipping to the wrong slot fixed
+Updated Gun Models:
+Updated AKS-74 Textures
+Fixed Tar-21 Model
+Fixed Famas model
+Fixed SKS Model
+
+-------------------------------------------------------
+Update 04/15/22
+Update v22.04.15b
+Fixed shop crashing from R91 Assault Rifle
+Fixed Issue with Start Shop
+
+-------------------------------------------------------
+
+Update 04/15/22
+Update v22.04.15
+Added 2 Guns
+R91 Assault Rifle
+Desert Eagle
+Updated the shop system
+Finished Healing System
+Updated Armor Icons
+Updated Menu Borders
+Fixed a few issues in the game
+Fixed Wave 7 - Some enemies spawn even after KC is reached.
+Not all Kill Counts get removed - Fixed on Wave 6&7 - Need confirmed
+Removed Sako M95 from Wave 14 store (Has not been added into the game yet, So this causing errors)
+Wave 14 doesn’t notify when kill count is reached - fixed
+Wave 8 & 9 keys will be removed after the Wave. (Rest will be added)
+Fixed Issues with some missing sounds
+Fixed Alignment Issue in the Equipment Menu
+
+-------------------------------------------------------
+
+Update 04/10/22
+Update v22.04.10
+Wave 8 Cockroaches Damage increased to 18 from 14.
+Baseball Bat damage decreased to 6 from 9.
+Baseball Bat speed increased to .35 from .3
+Baseball Bat sweep distance increased
+Wave 1 key drop chance decreased
+New Healing System has been implemented for Waves 1-15
+FPS Improvements
+Tommy Gun changes
+-Lowered Damage
+-Lowered Accuracy
+-Lowered Price
+Valmet M82 Changes
+-Raised Price
+-Raised Damage
+Lowered shooting time on the FAMAS
+Raised Accuracy on the C7
+Added Assault Rifle Class as a selectable class
+Fixed issue with Money following cursor
+
+-------------------------------------------------------
+
+Update 08/19/21
+Update v21.08.19
+Wave 6 Drop Table Updated
+Wave 9- 19 Drop Table Updated
+Fixed Upgrade 3 Colt Canada C7 and Upgrade 1 Ammo issue
+Wave 13 Bats defense changed from 13 to 19.
+Wave 13 Bats health changed from 29 to 38
+Glitch allowing the player to dupe the Upgraded C7 fixed
+Rock Boss Key fix
+Rock Boss health increased from 25,000 to 250,000!
+Fixed Hell Helmet - Was equipping onto the wrong slot
+.44 Mag drop fixed
+Wave 19 respawn time increased
+Rock Mega Boss health decreased from 250,000 to 25,000
+Rock Mega Boss respawn fixed
+
+
+-------------------------------------------------------
+Update 08/06/21
+Update v21.08.18
+Drop Table Fixes/Changes:
+Fixed Wave 8 drop table causing crash
+Lowered Wave 7 drop table slightly
+Raised Wave 9 key chance
+No longer asks you twice If you’re sure you want to quit
+Assault Rifle glitch fixed
+Marksmen Class - Wrong Ammo
+Mosin Nagant Fixes/Changes:
+Lowered Bullet Speed
+Fixed Range Issue
+Fixed Non Visible Projectile
+20 Gauge Pump Fixes/Changes:
+Lowered Range
+Added 4 Projectiles per shot (Similar to buckshot)
+Misc Gun Fixes/Changes:
+AKS-74 range changed from 400 - 380
+AKS-74 accuracy decreased slightly
+Tommy Gun accuracy decreased slightly
+Tommy Gun speed increased from 40 to 85
+.223 Revolver range decreased from 1200 to 120
+M40A2 range issue fixed
+SKS range changed from 650 to 450
+AK-74u accuracy decreased slightly
+AK-74u bullet speed increased slightly
+Grenade speed increased slightly
+Mini-gun accuracy decreased
+Rare Crossbow arrow speed decreased from 120 to 65
+Rare Crossbow distance decreased from 300 to 175
+Rare Crossbow Attack changed from 32 to 44
+Medic Kit now heals for 15, was 10
+
+-------------------------------------------------------
+Update 08/06/21
+Update v21.08.06
+-Fixed crash at start of game when selecting any class but SMG.
+-Updated Med Kit Model
+-Removed Website launch when closing the game
+
+-------------------------------------------------------
+Update 11/25/20
+Update v20.11.25
+-Increased AK-74U Fire rate
+-Increased PP19 Bizon Fire rate
+-Increased H&R 1871 Fire Rate
+-Decreased Uzi Fire Rate
+-Decreased SKS Fire Rate
+-Increased 20Gauge Shotgun Damage from 16 - 22
+-Increased H&R 1871 Shotgun Damage from 23 - 31
+-Increased 12 Gauge Extended Mag Shotgun Damage from 39 - 42
+-------------------------------------------------------
+
+Update 09/01/20
+Update v20.09.01
+-Fixed Wave 3 Key
+-Changed Price’s on
+--Leather helmet price from 200 to 300
+--Necklace from 800 to 950
+--Hell Amulet from 36000 to 24000
+--Hell Armor from 42000 to 35000
+--Hell Helmet from 4000 to 12000
+-Updated Models for
+--Spiked Baseball Bat Model
+--20 Gauge Pump Model
+-Added Items
+--Rocket Launcher Ammo
+--Added Modern Military Helmet
+--Lowered Ancient Helmet Stats
+--Remove unused scripts, items, npcs, etc
+
+-------------------------------------------------------
+Update 07/19/20
+Update v20.7.19
+-Fixed Drop tables damaged by last update
+-Fixed starting ammo issue due to last update
+-Fixed Action item not working for PC due to Mobile update
+-Continuing to remove unused scripts, items, npcs, etc
+
+-------------------------------------------------------
+
+Update 05/19/20
+Update v20.5.19
+-Add Check When Key Drops To Prevent Duplicate Drops
+-Fixed Shop Glitch
+-Added Mobile Alpha
+-Fixed Glitch allowing you to get out of the map @ the start zone
+-Removed Many Unused scripts and ammos
+-Changed Shops from Waves 1 through 15
+-Combined Ammo types with Generic Types
+
+-------------------------------------------------------
+
+Update 08/11/19
+Update v19.8.11
+-Fixed Wave 19 Issue
+-Using Load Feature, Loses Keys/Kill Count Fixed
+-Added Weapon “Tommy Gun”
+
+-------------------------------------------------------
+
+Update 08/07/19
+Update v19.8.7
+-Game Loaded Text Glitch Fixed
+-Starting Money Changed To: $750
+-Experience Per Level Changed To: 5,000
+-Changed Character Model
+-Game Moved To Full Release, (Version Name Based Off Update Release Date)
+
+-------------------------------------------------------
+
+Update 08/05/19 - 08/06/19
+Update Alpha 1.3.4
+-Melee Starter Pack Crashing Game Fixed
+-Updated Wave 7 Drops To Fix Crash
+-Wave 7 Now Stops Spawning After Required KillCount
+-Fixed Game Not Unpausing When You Click "Nevermind" In Teleport Menu
+-Added Confirm Button On Restart
+-Added Confirm Button On Quit
+-Added Sound Option In InGame Menu
+
+-------------------------------------------------------
+
+Update 04/08/19
+Update Alpha 1.3.3
+-Fixed Wave 17 not dropping Key
+-Raised Ghost(Wave 17) Health To 77 From 47 
+-Lowered PP19 Bizon Shooting Speed
+-Raised PP19 Bizon Price From $4900 To $7900
+-Resized Canada C7
+-Resized And Changed Spirit Of The Valmet M82
+-Wave 10 Boss Speed Moved To 6 From 4
+-Wave 10 Boss Respawn Changed To 20 seconds From 25
+-Lowered Money Per Kill From Waves 11-14
+
+-------------------------------------------------------
+
+Update 04/05/19
+Update Alpha 1.3.2
+-Added Rocket Launcher 
+-Fixed MedKit Price
+-Removed Wave 13 Key That Was Spawned On The Ground
+-Raised Snakes(Wave 12) Attack To 26 From 18
+-Raised Dark Necromancer(Wave 11) Attack To 19 From 8
+-Raised Dark Necromancer(Wave 11) Defense To 3 From 0
+-Finished New DeathSpawn System
+-Fixed Glitch allowing Ice Key to be sold
+-Added Minigun
+-Max level is now 60
+-Experience per level is now 3200
+-Added Sprint (Left Shift)
+-Moved Jump to Space
+
+-------------------------------------------------------
+
+Update 04/03/19
+Update Alpha 1.3.1
+-Fixed New Menu Issues
+-Fixed Wave 13-14 Key Issues
+-Changed NPC Stats Waves 13-15
+-Fixed Wave 19 Key Issues
+-Added Teleport back to current Wave
+-Window Now Defaults To Primary Screen
+-Game Now Freezes When Losing Focus
+-Changed Text Box Colors
+-Updated Equipment Symbols
+
+-------------------------------------------------------
+
+Update 04/02/19
+Update Alpha 1.3.0
+-Fixed Menu Boxes
+-Raised Price’s For Medkits To $250 From $50
+-Fixed Shops From Wave 10 To 12
+-Lowered H&R 1871 Value To $2600 From $8000
+-Raised AK-74u Shooting Speed
+-Fixed Wave 12 Dropping Wrong Key
+-Changed Attack Ratings On
+--20 Gauge Pump To 16 From 14 
+--H&R 1871 To 23 From 17
+--Semi Auto 12 Gauge To 39 From 31
+-Added Starter Class "Marksmen" Back
+
+-Fixed Issue With Mosin Nagant Size
+--Lowered Mosin Shooting Speed
+--Lowered Mosin Value To $1200 From $2000
+
+-Updated Wave 5 Boss
+--Lowered Attack To 22 From 26
+--Fixed Issue Where He Wasn’t Attacking
+--Raised Movement Speed To 3 From 2
+--Raised Attack Speed
+--Changed Drop Rates
+--Added SKS As Drop
+
+-Updated Wave 10 Boss
+--Lowered Health to 800 from 1200
+--Raised Attack To 29 From 13
+--Raised Speed to 4 from 2
+--Lowered Drop Rates
+
+-------------------------------------------------------
+
+Update 03/21/18 - 06/25/18
+Update Alpha 1.2.1
+-Removed Multiplayer (Due to glitches)
+-Added Hell Armor Set
+--Helmet
+--Armor
+--Sword
+--Battle Axe
+--Necklace
+-Added Blue Camo Uzi
+-Added Silver Uzi / Silver Bullets (3x Stronger)
+-Updated Prices on many items
+-Lowered EXP Required Per Level
+-Updated Drops on Wave 5
+
+-------------------------------------------------------
+
+Update 01/05/17 - 01/14/17
+Update Alpha 1.2
+-Added Multiplayer (Still testing)
+
+-------------------------------------------------------
+
+Update 01/04/17
+Update Alpha 1.1
+-Added New KillCount Drop System For Wave's 6 and 7.
+-Game Now Lets Players Know When They Reach The KillCount.
+
+-------------------------------------------------------
+
+Update 10/20/16 - 10/23/16
+Update Alpha 1.0.9
+-Spawn System Update (100% Done)
+-Minor Bug Improvements
+-DeathReSpawn System Update
+-Updated Wave's 16 - 20 
+
+-------------------------------------------------------
+
+Update 10/18/16
+Update Alpha 1.0.8
+-Spawn System Update (25% Done)
+
+-------------------------------------------------------
+
+Update 10/16/16 - 10/17/16
+Update Alpha 1.0.8
+-Fixed Helmet Glitch
+-Added Armor Slots for Finger and Legs.
+-Updated Wave 9 bug/ Drop rate
+-Fixed Exit bug
+-Redo Spawn System, (10% Done) Once player recieves key, NPC's will stop spawning.
+
+-------------------------------------------------------
+
+Update 10/13/16 - 10/14/16
+Update Alpha 1.0.7
+-HUD Updates
+-Loading Screen Updated
+-Menu Updates
+-Few Bug Improvements
+
+-------------------------------------------------------
+
+Update 10/08/16
+Update Alpha 1.0.6
+-Added Main Menu
+-Fixed Text Log Bug
+
+-------------------------------------------------------
+
+Update 10/07/16
+Update Alpha 1.0.5
+-Internal Improvements
+-Updated the level message system
+
+-------------------------------------------------------
+
+Update 10/02/16
+Update Alpha 1.0.4
+-Bug fixes
+-Updated Weapon Stats (All Weapons)
+-Added Item Tar 21
+-Added Item MiniGun
+
+-------------------------------------------------------
+
+Update 10/01/16
+Update Alpha 1.0.3
+-Fixed Wave's 11-14 Drops
+-Updated Wave 11 Npc Stats
+
+-------------------------------------------------------
+
+Update 09/29/16
+Update Alpha 1.0.2
+-Fixed Wave 8-11 Shop Glitches
+-Fixed wave 8-10 Glitches
+
+-------------------------------------------------------
+
+Update 07/05/16
+Update Alpha 1.0.1
+-Fixed Glitches on Wave's 8 and 9
+
+-------------------------------------------------------
+
+Update 07/01/16
+Update Alpha 1.0
+-Bug Fixes 
+-Added Weapons
+-- .223 Revolver
+-- .44 Mag (Updated)
+-- M1911 (Updated)
+-- Semi Auto 12 Gauge Extended Mag
+
+-------------------------------------------------------
+
+Update 04/08/16
+Updated Pre-Alpha 1.8.0
+-Updated Waves 4-12 Drop Rates
+-Updated Many NPC attack/health
+-Internal Improvements (Runs faster) 
+
+-------------------------------------------------------
+
+Update 02/19/16
+Update Pre-Alpha 1.7.9
+-Updated Wave 2 Drop Rates
+-Updated Wave 3 Drop Rates
+-Added Items:
+    -Added 20 Gauge Pump
+    -Devil's Axe
+    -Spiked Baseball Bat
+-Changed Classes into Start Kit
+-Updated Use Time on Multiple Guns
+-Lowered Wave 5 Boss's Health
+
+-------------------------------------------------------
+
+Update 11/14/15
+Update Pre-Alpha 1.7.8
+-Updated Wave 1 Drop Rates
+-Updated Ammo
+-Internal Fixes
+
+-------------------------------------------------------
+
+Update 5/27/15
+Update Pre-Alpha 1.7.7
+-Added 2nd Accessory slot
+-Internal Fixes
+
+-------------------------------------------------------
+
+Update 5/17/15
+Update Pre-Alpha 1.7.6
+-Fixed Start Up Glitch
+
+-------------------------------------------------------
+
+Update 5/15/15
+Update Pre-Alpha 1.7.5
+-Fixed Wave 4 Glitch
+-Added New Death Spawn System
+-Changed Character Model
+
+-------------------------------------------------------
+
+Update 12/24/14
+Update Pre-Alpha 1.7.4
+-Bug Fixes
+-Fixed Wave 8 Glitch
+
+-------------------------------------------------------
+
+Update 12/19/14
+Update Pre-Alpha 1.7.3
+-Fixed Wave 17 Glitch
+
+-------------------------------------------------------
+
+Update 12/18/14
+Update Pre-Alpha 1.7.2
+-Changed Max level to 50 (Exp 250,001)
+-Internal Improvements
+
+-------------------------------------------------------
+
+Update 10/24/14
+Update Pre-Alpha 1.7.1
+-Fixed Wave 3 (Key not dropping)
+-Added BaseBall Bat
+-Weakened BaseBall Bat
+
+-------------------------------------------------------
+
+Update 10/11/2014
+Update Pre-Alpha 1.7
+-Fixed Wave 4 glitch
+-Added Item Crusader Armor (Rare)
+
+-------------------------------------------------------
+
+Update 9/2/2014
+Update Pre-Alpha 1.6
+-Added Wave 17
+-Added Wave 18
+-Fixed Wave 15 Shop
+-Added Item PP19 Bizon
+
+-------------------------------------------------------
+
+Update 8/11/2014
+Update Pre-Alpha 1.5.5
+-Added Wave 16
+-Added Item Blessed Amulet (Rarest Item in game as of 8/11/14)
+
+-------------------------------------------------------
+
+Update 8/9/2014
+Update Pre-Alpha 1.5.2
+-Added Respawn Options
+-Added Item Rock Necklace
+
+-------------------------------------------------------
+
+Update 8/6/2014
+Update Pre-Alpha 1.5.1
+-Fixed Wave 10 Teleport Glitch to Wave 11.
+-Lowered Dark Necromancer's Health
+-Fixed Some Shop Errors
+-Added Music to Waves
+-Added Item Battle Axe
+-Added Item Galil ARM
+-Added Item Rare Crossbow
+-Added Item Colt Canada C7 (Upgrade 1)
+-Added Item Colt Canada C7 (Upgrade 3)
+
+-------------------------------------------------------
+
+Update 8/5/2014
+Update Pre-Alpha 1.5
+-Added Wave 11
+-Added Wave 12
+-Added Wave 13
+-Added Wave 14
+-Added Wave 15
+
+-------------------------------------------------------
+
+Update 7/28/2014
+Update Pre-Alpha 1.4.6
+-Resolution change
+-Wave 5 -10 Shop/Drops
+-Fixed Wave 5 Teleport Glitch
+-Fixed Wave 9 Teleport Glitch
+-Fixed Wave 10 Teleport Glitch
+-Fixed 44 Mag. Ammo
+-Fixed Start Shop Error
+-Changed Class name from "Gunmen" to "Marksmen"
+-Added Name Change. You can now Choose your Hero's name!
+-Added Item ChainMail Armor
+-Added Item Breastplate Armor
+
+-------------------------------------------------------
+
+Update 7/25/2014
+Update Pre-Alpha 1.4.5
+-Added Item Leather Armor
+-Added Item American WWII Helmet
+-Added Item M40A2
+-Internal Improvements
+-Wave 2 - 4 Shop/Drops
+-Wave 5 Drops
+
+-------------------------------------------------------
+
+Update 7/24/2014
+Update Pre-Alpha 1.4.4
+-Fixed Glitch Wave 5
+
+-------------------------------------------------------
+
+Update 7/23/2014
+Update Pre-Alpha 1.4.3
+-Added Item Sword
+-Added Item H&R 1871 Pardner Pump 12 Gauge
+-Internal Improvment Work
+-Fixed Uzi Color glitch
+-Fixed Some Shops
+-Statistics Updated
+--Added 
+---Amount Of Time Played
+---Points Earned
+---Character Name
+---Number of Pixels Walked
+---Level
+---Experience
+---Experience Till Level
+
+-------------------------------------------------------
+
+Update 7/22/2014
+Update Pre-Alpha 1.4.2
+-Added Home Teleport. ("T")
+-Added Item 44 Mag.
+-Added statistics button ("I")
+--Added Amount of Quests Completed
+--Added Total Number of Monsters Killed
+--Added Death Count
+-Added Item AK-74u
+
+-------------------------------------------------------
+
+Update 7/21/2014
+Update Pre-Alpha 1.4
+-Internal rework, Weapon Damage Rework
+-Added Item - Uzi
+-Added Item - M1911
+-Resolution Size to 1920 X 1080
+
+-------------------------------------------------------
+
+Update 7/18/2014
+Update Pre-Alpha 1.3.2
+-Added Item - Colt Canada C7
+-Fixed Quest 8&9 Bug
+-Fixed 9&10 door glitches
+
+-------------------------------------------------------
+
+Update 7/17/2014
+Update Pre-Alpha 1.3.1
+-Added Item - Ak-74
+-Mosin Nagant Glitched (1 of the few glitches)
+
+-------------------------------------------------------
+
+Update 7/16/2014
+Update Pre-Alpha 1.3:
+-Added Level bar/Exp bars at the bottom
+-Added Item - Mosin Nagant
+-Changed loading screen
+-Added Pause button. (Click "P")
+-Added Heal button (Click "H" *Note: Must have Medic Kits)
+
+-------------------------------------------------------
+
+Update 7/15/2014
+Update Pre-Alpha 1.2:
+-Added Music background Music from Wave 1 through 5
+-Added Sounds to Assault Rifles
+
+-------------------------------------------------------
+
+Update 7/10/2014 - 7/11/2014
+Updates:
+-Fixed Wave 1 - 2 Drops
+-Fixed Wave 2 Overpower (Slowed Enemy down)
+-Fixed Prices
+-Fixed Damage Balance
+-Adding Check Sheet/Game Progress
+-Pre-Alpha Key no longer needed!
+
+-------------------------------------------------------
+
+Update 7/8/2014-7/9/2014
+Updates:
+-Fixed Drops
+-Fixed Shops
+-Fixed Wave 4
+-Fixed Few Doors
+-Game Status Changed to Pre-Alpha 1.0 (Public Release)
+
+-------------------------------------------------------
+
+Update 6/27/2014
+Updates:
+-Added Rare Item
+-Added Items
+-Fixed Items
+-Fixed Quest Bug
+
+-------------------------------------------------------
+
+Update 6/22/2014
+Updates:
+-Added Wave 9 & 10
+-Fixed Weapons
+
+-------------------------------------------------------
+
+Update 6/18/2014
+Updates:
+-Added Wave 7 & 8
+
+-------------------------------------------------------
+
+Update 6/16/2014
+Updates:
+-Added Wave 6 Room
+-Fixed Weapons
+-Fixed Shops
+-Added first 2 Rares!
+
+-------------------------------------------------------
+
+Update 6/15/2014
+Updates:
+-Fixed Weapons
+-Added Wave 6
+-Fixed Wave 5 Boss
+
+-------------------------------------------------------
+
+Update 6/10/2014:
+Update:
+-Added Respawn
+-Better Drop Rates
+-Fixing Quests
+
+-------------------------------------------------------
+
+UpDate: 3/3/2014
+Update:
+Added Level 5
+added Level 5 Boss
+
+
