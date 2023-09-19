@@ -1,23 +1,43 @@
 Thank You For Downloading Battle Wave!
 by FareGaming
 
-Current Version: v22.04.23
-Last Updated: 04/23/22
+Current Version: v23.09.19
+Last Updated: 09/19/23
 
 -------------------------------------------------------
 
-Future Plans(Last Updated: 04/15/22):
-Part 3 (World 2)
-
--------------------------------------------------------
-
-Known Errors: (Last Updated 04/15/22)
+Known Errors: (Last Updated 09/19/23)
 Music Bug (65% Done of current progress)
 Sound Bug (90% Done of current progress)
 Completed Quests don't count under Statistics
 Keys stay in inventory(20% fixed, In-Progress)
+If Item description is long it goes offscreen
 
 -------------------------------------------------------
+
+Update 09/19/23
+Update v23.07.23
+Fixed Issue where Muting or Unmuting sound would unpause game with menu still opened.
+Raised 12 Gauge Pump Shot count to 3 (From 1)
+Raised 12 Gauge Pump Damage to 36 (From 31)
+Raised Ancient Helmet price to 3200 (From 2600)
+Raised Modern Military Helmet price to 9250 (From 6500)
+Raised Medic Kit to 17 (From 15)
+Raised Sprint Speed to 30 (From 25)
+Decreased Wave 10 Enemy health to 550 (From 800)
+Raised Wave 10 Enemy Damage to 2900 (From 29)
+Raised Wave 10 Key chance to 82 (From 50)
+Raised Wave 10 Enemy speed to 9 (From 6)
+Wave 10 Enemy momentum speed to .5 (From 0)
+
+-------------------------------------------------------
+
+Update 03/31/23
+Update v23.03.31
+Updated Engine to current version
+
+-------------------------------------------------------
+
 Update 04/23/22
 Update v22.04.23
 Fixed MiniGun Sounds
@@ -730,5 +750,3 @@ UpDate: 3/3/2014
 Update:
 Added Level 5
 added Level 5 Boss
-
-
