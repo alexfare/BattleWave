@@ -1,19 +1,29 @@
 Thank You For Downloading Battle Wave!
 by FareGaming
 
-Current Version: v23.09.24
-Last Updated: 09/24/23
+Current Version: v23.10.01
+Last Updated: 10/01/23
 
 -------------------------------------------------------
 
-Known Errors: (Last Updated 09/19/23)
-Music Bug (65% Done of current progress)
+Known Errors: (Last Updated 10/01/23)
+Music Bug (70% Done of current progress)
 Sound Bug (90% Done of current progress)
 Completed Quests don't count under Statistics
 Keys stay in inventory(20% fixed, In-Progress)
 If Item description is long it goes offscreen
 
 -------------------------------------------------------
+Update 10/01/23
+Update v23.10.01
+Added Ring
+Fixed Wave 15 Key glitch from previous update
+Fixed C7 Upgrade 3 from being able to be sold
+Changed SKS damage from 50 to 75
+Music has been added for Wave 16 & 17
+
+-------------------------------------------------------
+
 Update 09/24/23
 Update v23.09.24
 Fixed money display glitch when in main menu in full screen mode
