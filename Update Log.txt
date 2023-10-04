@@ -22,8 +22,33 @@ Added Armor Legs
 Added Shops Location (Press T to teleport)
 Updated Engine to current version
 Optimized Resources Saving a mighty 0.3MB
+Fixed menu display issue
+Fixed game not pausing when opening information menu (I Key)
+Fixed Wave 16 Ice not pausing the game
+Updated multiple menus
+Updated HUD
+Added Menu Music
+Worked on Melee balancing
+Damage
+	Baseball Bat Damage 12 (Was 6)
+	Sword Damage 29 (Was 18)
+	Spiked Baseball Bat Damage 23 (Was 13)
+	Lance Damage 36 (Was 19)
+	Battle Axe Damage 52 (Was 26)
+	Hells Battle Axe Damage 72 (Was 36)
+Hell LongSword Damage 72 (Was 36)
+Devil’s Axe Damage 96 (Was 48)
+Price
+	Baseball Bat Price $550 (Was $250)
+	Sword Price $2250 (Was $500)
+	Lance Price $4100 (Was $2300)
+	Battle Axe Price $8000 (Was $4000)
+	Battle Axe Price $9000 (Was $18000)
+Hell LongSword Price $19500 (Was $11000)
+Devil’s Axe Price $48000 (Was $19000)
 
 -------------------------------------------------------
+
 Update 10/01/23
 Update v23.10.01
 Added Ring
@@ -799,5 +824,3 @@ UpDate: 3/3/2014
 Update:
 Added Level 5
 added Level 5 Boss
-
-
