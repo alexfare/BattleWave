@@ -1,8 +1,8 @@
 Thank You For Downloading Battle Wave!
 by FareGaming
 
-Current Version: v23.10.08
-Last Updated: 10/08/23
+Current Version: v23.10.15
+Last Updated: 10/15/23
 
 -------------------------------------------------------
 
@@ -12,6 +12,15 @@ Sound Bug (90% Done of current progress)
 Completed Quests don't count under Statistics
 Keys stay in inventory(20% fixed, In-Progress)
 If Item description is long it goes offscreen
+
+-------------------------------------------------------
+Update 10/15/23
+Update v23.10.15
+Added Rock Ring
+Added Hell Legs
+Changed from full screen to windowed by default
+Fixed Main Menu load glitch
+Updated Main Menu (Layout and Code)
 
 -------------------------------------------------------
 Update 10/08/23
