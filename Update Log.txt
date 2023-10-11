@@ -21,6 +21,13 @@ Added Hell Legs
 Changed from full screen to windowed by default
 Fixed Main Menu load glitch
 Updated Main Menu (Layout and Code)
+Updated Mosin Nagant Empty Sound
+Updated Mosin Nagant Reload Sound
+Updated Mosin Nagant Fire Sound
+Updated SKS Reload Sound
+Updated SKS Fire Sound
+Updated AKS-74 Fire Sound
+Updated AKS-74 Reload Sound
 
 -------------------------------------------------------
 Update 10/08/23
